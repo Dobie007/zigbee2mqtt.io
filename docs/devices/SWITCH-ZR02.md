@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+controller chip: CC2652P
+current Firmware 1.0.1 from 2021 09 02  Problem: Loses connection after 2 days of operation with zigbee2mqtt: Hard reset necesssary
 
 <!-- Notes END: Do not edit below this line -->
 
