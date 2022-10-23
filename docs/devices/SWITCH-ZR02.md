@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Notes
+Initiate pairing by holding the button until the status LED starts flashing.
 
 <!-- Notes END: Do not edit below this line -->
 
